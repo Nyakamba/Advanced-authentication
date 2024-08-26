@@ -1,4 +1,7 @@
-https://github.com/burakorkmez/mern-advanced-auth/blob/master/frontend/public/screenshot-for-readme.png
+
+![image](https://user-images.githubusercontent.com/95473301/229603440-d2ea9577-376e-4a53-ba38-69a138eb3c1a.png)
+![advanvced-authentication](https://github.com/user-attachments/assets/9396d0ef-7c68-46f9-909a-c75187803ad5)
+
 
 About This Project:
 
